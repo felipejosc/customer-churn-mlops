@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/felip/Downloads/Code/customer-churn-mlops/mlruns/709012370999798253/ef6c256200d344d59146237ee493d473/artifacts
+end_time: 1763873801568
+entry_point_name: ''
+experiment_id: '709012370999798253'
+lifecycle_stage: active
+run_id: ef6c256200d344d59146237ee493d473
+run_name: defiant-finch-325
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763873798002
+status: 3
+tags: []
+user_id: felip

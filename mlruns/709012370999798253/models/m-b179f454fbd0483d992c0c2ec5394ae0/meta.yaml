@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/felip/Downloads/Code/customer-churn-mlops/mlruns/709012370999798253/models/m-b179f454fbd0483d992c0c2ec5394ae0/artifacts
+creation_timestamp: 1763873768497
+experiment_id: '709012370999798253'
+last_updated_timestamp: 1763873772985
+model_id: m-b179f454fbd0483d992c0c2ec5394ae0
+model_type: null
+name: model
+source_run_id: 481cc9aea7ed4f1db690432760fa4a71
+status: 2
+status_message: null
