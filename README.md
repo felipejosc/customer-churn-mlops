@@ -1,5 +1,3 @@
-End-to-end MLOps pipeline for customer churn prediction using DVC, MLflow, FastAPI and Docker.
-
 # Customer Churn Prediction MLOps Pipeline
 
 This project presents an end-to-end Machine Learning and MLOps pipeline for customer churn prediction.
